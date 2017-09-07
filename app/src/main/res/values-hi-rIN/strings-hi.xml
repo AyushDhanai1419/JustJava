@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="name">नाम</string>
+    <string name="toppings">टॉपिंग</string>
+    <string name="whipped_cream">फेटी हुई मलाई</string>
+    <string name="chocolate">चॉकलेट</string>
+    <string name="quantity">मात्रा</string>
+    <string name="decreementby1">-</string>
+    <string name="increementby1">+</string>
+    <string name="CofeeOrderFor">के लिए कॉफी ऑर्डर : </string>
+    <string name="Name">नाम:</string>
+    <string name="addwhippedcream">\nव्हीप्ड क्रीम जोड़ें? </string>
+    <string name="addchocolate">चॉकलेट जोड़ें? </string>
+    <string name="Quantity">\nमात्रा: </string>
+    <string name="Totalwithcurrency">\nकुल = $ </string>
+    <string name="maximumlimit">उदारता अधिकतम सीमा तक पहुंचता है</string>
+    <string name="nocoffeeordered">आप एक कॉफी से कम ऑर्डर नहीं कर सकते</string>
+    <string name="order">उत्तीर्ण करना</string>
+    <string name="thankyou">"\nधन्यवाद! "</string>
+
+</resources>

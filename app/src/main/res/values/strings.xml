@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="name">Name</string>
+    <string name="toppings">toppings</string>
+    <string name="whipped_cream">Whipped Cream</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="quantity">Quantity</string>
+    <string name="decreementby1">-</string>
+    <string name="increementby1">+</string>
+    <string name="CofeeOrderFor">"Cofee Order for "</string>
+    <string name="Name">"Name : "</string>
+    <string name="addwhippedcream">"\nAdd Whipped Cream? "</string>
+    <string name="addchocolate">"Add Chocolate? "</string>
+    <string name="Quantity">"\nQuantity : "</string>
+    <string name="Totalwithcurrency">\nTotal = $</string>
+    <string name="maximumlimit">Quantity reaches maximum limit</string>
+    <string name="nocoffeeordered">You cannot order less than one Cofee</string>
+    <string name="order">Order</string>
+    <string name="thankyou">"\nThank You! "</string>
+</resources>
